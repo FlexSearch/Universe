@@ -1,0 +1,9 @@
+[submodule "flexsearch"]
+	path = flexsearch
+	url = https://github.com/FlexSearch/FlexSearch.git
+[submodule "csvconnector"]
+	path = csvconnector
+	url = https://github.com/FlexSearch/CsvConnector.git
+[submodule "sqlconnector"]
+	path = sqlconnector
+	url = https://github.com/FlexSearch/SqlConnector.git
